@@ -1,4 +1,5 @@
 ## Hello, I'm Nik Radi
+![](https://komarev.com/ghpvc/?username=NikRadi)
 
 <!--
 **NikRadi/NikRadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
